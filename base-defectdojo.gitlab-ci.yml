@@ -26,3 +26,4 @@ variables:
   DEFECTDOJO_SCAN_DIRECTORY: "./scanresults/${DEFECTDOJO_SCAN_FILE_NAME}"
   DEFECTDOJO_IMAGE: "localhost:8090/defectdojo:latest"
   KANIKO_IMAGE: "localhost:8090/kaniko:latest"
+  IMAGE_NAME: "defectdojo:latest"
